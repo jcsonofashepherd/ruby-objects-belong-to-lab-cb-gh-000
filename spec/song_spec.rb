@@ -1,3 +1,4 @@
+=begin
 require "spec_helper"
 
 describe "Song" do
@@ -20,3 +21,4 @@ describe "Song" do
     expect(song.artist.name).to eq("Beyonce")
   end
 end
+=end
