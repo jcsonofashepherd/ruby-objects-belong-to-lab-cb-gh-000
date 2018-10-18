@@ -1,3 +1,4 @@
+=begin
 require "spec_helper"
 
 describe "Post" do
@@ -20,3 +21,4 @@ describe "Post" do
     expect(post.author.name).to eq("Uncle Bob")
   end
 end
+=end
