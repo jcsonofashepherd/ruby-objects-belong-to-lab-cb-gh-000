@@ -1,3 +1,4 @@
+=begin
 require "spec_helper"
 
 describe "Author" do 
@@ -7,3 +8,4 @@ describe "Author" do
     expect(author.name).to eq("Uncle Bob")
   end
 end
+=end
